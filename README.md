@@ -1,4 +1,4 @@
-# homebrew-bk
+# homebrew-tools
 
 Formulas for tools I've built
 
@@ -12,7 +12,7 @@ from my local machine to a port-forwarded host.
 See my fork [here](https://github.com/bkimmig/awscurl)
 
 ```
-brew tap bkimmig/bk
-brew install bkimmig/bk/awscurl
+brew tap bkimmig/tools
+brew install bkimmig/tools/awscurl
 ```
 
